@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.93ca0cfa.chunk.css",
+    "main.js": "/react-test/static/js/main.4788db7c.chunk.js",
+    "main.js.map": "/react-test/static/js/main.4788db7c.chunk.js.map",
+    "runtime-main.js": "/react-test/static/js/runtime-main.baf3b1c0.js",
+    "runtime-main.js.map": "/react-test/static/js/runtime-main.baf3b1c0.js.map",
+    "static/css/2.4d0ded62.chunk.css": "/react-test/static/css/2.4d0ded62.chunk.css",
+    "static/js/2.f98671e3.chunk.js": "/react-test/static/js/2.f98671e3.chunk.js",
+    "static/js/2.f98671e3.chunk.js.map": "/react-test/static/js/2.f98671e3.chunk.js.map",
+    "index.html": "/react-test/index.html",
+    "precache-manifest.e04b9ec81d26676a3206bde8c311f99d.js": "/react-test/precache-manifest.e04b9ec81d26676a3206bde8c311f99d.js",
+    "service-worker.js": "/react-test/service-worker.js",
+    "static/css/2.4d0ded62.chunk.css.map": "/react-test/static/css/2.4d0ded62.chunk.css.map",
+    "static/css/main.93ca0cfa.chunk.css.map": "/react-test/static/css/main.93ca0cfa.chunk.css.map",
+    "static/media/App.scss": "/react-test/static/media/fond_bande_bleue.4d41a505.png",
+    "static/media/logo_home.png": "/react-test/static/media/logo_home.58ffde45.png",
+    "static/media/logo_menu.png": "/react-test/static/media/logo_menu.3e5678cb.png",
+    "static/media/slick-theme.css": "/react-test/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf3b1c0.js",
+    "static/css/2.4d0ded62.chunk.css",
+    "static/js/2.f98671e3.chunk.js",
+    "static/css/main.93ca0cfa.chunk.css",
+    "static/js/main.4788db7c.chunk.js"
+  ]
+}
